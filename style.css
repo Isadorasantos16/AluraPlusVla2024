@@ -39,6 +39,16 @@
         margin: 0 6em;
     }
 
+
+    .container_titulo{
+        font-size: 28px;
+        font-weight: 700;
+    }
+    .container_imagem{
+        margim: 1em 0 2em 0
+    }
+
+
     .container__titulo{
         font-size: 28px;
     font-weight: 700;
